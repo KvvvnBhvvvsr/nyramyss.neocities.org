@@ -3,6 +3,7 @@
 
 # Dependencies (if using Node.js/npm)
 node_modules/
+public/
 package-lock.json
 
 # Editor folders
